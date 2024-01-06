@@ -11,6 +11,9 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jidaf
 * Language: SQL, Python, R
 * Database: SMSS, MySQL
 * Visualization: Tableau, PowerBI
+
+###👋🏻 Connect with Me
+Message me on [LinkedIn](https://www.linkedin.com/in/scott-duong/).
 <!--
 **jidafan/jidafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
