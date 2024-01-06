@@ -4,7 +4,7 @@
 
 👀 I’m interested in analysis and prediction related to product analytics and user experiences. 
 
-📚 Projects
+### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects](https://github.com/jidafan/Data-Analyst-Portfolio).
 
 ### 🛠️ Tools
