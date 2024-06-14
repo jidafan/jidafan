@@ -16,7 +16,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/jidaf
 Message me on [LinkedIn](https://www.linkedin.com/in/scott-duong/).
 
 
-Email me at scottduong71@hotmail.com
+Email me at scott.duong@mail.utoronto.ca
 <!--
 **jidafan/jidafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
